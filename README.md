@@ -42,7 +42,7 @@ This design includes a **Finite State Machine (FSM)** that acts as a pixel scann
 
 ## 📄 Documentation
 
-A complete internship report is included under [`docs/ROIC_Project_Report.pdf`](docs/ROIC_Project_Report.pdf), covering:
+A complete internship report is included under [`docs/ROIC_Project_Report.pdf`](docs/ROIC_Internship_Report.pdf), covering:
 - ROIC architecture and application
 - FSM design for pixel scanning
 - Verilog code breakdown
