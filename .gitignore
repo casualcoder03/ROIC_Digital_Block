@@ -1,0 +1,15 @@
+# Ignore simulation and synthesis generated files
+*.vcd
+*.wlf
+*.log
+*.jou
+*.str
+*.html
+*.xml
+*.ngc
+*.ngr
+*.xst
+*.lso
+*.tmp
+*.bak
+*.cache/
