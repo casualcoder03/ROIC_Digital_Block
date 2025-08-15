@@ -15,7 +15,7 @@ This project is a part of my internship at **DRDO SSPL**, where I implemented th
 
 ## 📷 Waveform Preview
 
-![Simulation Output](docs/simulation_results.png)
+![Simulation Output](docs/Pixel_scanner_16x16_waveform.png)
 
 ## 👨‍💻 Author
 - Shivam Mandal  
